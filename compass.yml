@@ -1,0 +1,17 @@
+name: WpQuantumSearchForm
+id: ari:cloud:compass:174bfcc0-4d3f-413f-8b5c-c601be9a81f2:component/da947674-957d-47a1-b0ab-b2de4ac64816/c721bc20-7edb-49d4-88c1-387867c5228f
+description: QuantumSearchForm is a powerful WordPress plugin that allows you to add advanced search functionality to your website. With customizable search forms, autocomplete search suggestions, search result pagination, and customizable metadata for search results, QuantumSearchForm makes it easy for your users to find exactly what they're looking for.
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/EddyGoesHard/WpQuantumSearchForm
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
